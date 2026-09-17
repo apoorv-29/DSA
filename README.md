@@ -21,5 +21,4 @@ This repository uses automated sync tools (such as LeetSync / GFG-To-GitHub exte
 * Binary Search & Greedy Algorithms
 * Dynamic Programming & Graphs
 
----
-*“Consistency is the key to mastering algorithms.”* Happy Coding! 💻
+
