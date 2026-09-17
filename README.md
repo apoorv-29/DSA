@@ -1,6 +1,5 @@
 # DSA
-# 🚀 Striver's SDE Sheet - DSA Practice
-# I'm doing DSA in C++
+# 🚀 Striver's SDE Sheet - DSA Practice (C++)
 
 Welcome to my DSA (Data Structures and Algorithms) practice repository! This repo tracks my progress as I solve the curated **Striver's SDE Sheet**, a comprehensive guide for technical interview preparation. 
 
