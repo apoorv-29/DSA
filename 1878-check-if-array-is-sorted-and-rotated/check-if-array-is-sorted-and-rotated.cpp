@@ -5,7 +5,7 @@ public:
         int n = nums.size();
 for (int x = 0; x < n; x++) {
      bool isSorted = true;
-for (int i = 0; i < n - 1; i++) {
+for (int i = 0; i < n; i++) {
     int current = nums[(i + x) % n];
 int next = nums[(i + 1 + x) % n];
  if (current > next) {
