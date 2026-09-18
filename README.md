@@ -8,6 +8,7 @@ To maintain consistency and showcase my progress, my daily solutions from **Leet
 ## 📊 Profiles & Progress Tracker
 * LeetCode Profile: https://leetcode.com/u/apoorv29/
 * GeeksforGeeks Profile: https://www.geeksforgeeks.org/profile/apoorv65fr?tab=overview
+* Striver Sheet Tracker with direct LC & GFG links avoiding his TUF paid platform: file:///C:/Users/admin/OneDrive/Desktop/striver-a2z-tracker-main/index.html
 
 ## 🛠️ Repository Automation
 This repository uses automated sync tools (such as LeetSync / GFG-To-GitHub extensions) to commit code instantly upon solving a problem. 
