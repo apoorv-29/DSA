@@ -1,7 +1,7 @@
 # DSA
-# 🚀 Striver's SDE Sheet - DSA Practice (C++)
+# 🚀 Striver's A2Z DSA Sheet - DSA Practice (C++)
 
-Welcome to my DSA (Data Structures and Algorithms) practice repository! This repo tracks my progress as I solve the curated **Striver's SDE Sheet**, a comprehensive guide for technical interview preparation. 
+Welcome to my DSA (Data Structures and Algorithms) practice repository! This repo tracks my progress as I solve the curated **Striver's A2Z DSA Sheet**, a comprehensive guide for technical interview preparation. 
 
 To maintain consistency and showcase my progress, my daily solutions from **LeetCode** and **GeeksforGeeks (GFG)** are automatically synced directly to this repository.
 
